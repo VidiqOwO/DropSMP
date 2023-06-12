@@ -47,6 +47,3 @@
 `require-resource-pack=false`
 
 
-# bStats
-
-![](https://bstats.org/signatures/bukkit/DropSMP.svg)
